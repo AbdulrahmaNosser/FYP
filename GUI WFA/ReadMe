@@ -1,0 +1,2 @@
+Form1.designer.cs //for GUI elements
+Form1.cs          //for the logic of the UI
